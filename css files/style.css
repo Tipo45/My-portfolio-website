@@ -580,6 +580,7 @@ section {
     transition: all .40s ease;
 }
 
+
 .contact-list li a:hover {
     transform: scale(1.01) translateY(-5px);
     color: #edf5e1;
